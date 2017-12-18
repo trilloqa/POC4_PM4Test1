@@ -1,0 +1,20 @@
+{
+  "name" : "Nav",
+  "type" : "nav",
+  "hierSpecs" : [
+    {
+      "name" : "home_",
+      "displayName" : "Home",
+      "actionSpec" : { },
+      "type" : "menuItem"
+    },
+    {
+      "name" : "animals",
+      "displayName" : "National Animals",
+      "actionSpec" : {
+        "type" : "view"
+      },
+      "type" : "menuItem"
+    }
+  ]
+}
